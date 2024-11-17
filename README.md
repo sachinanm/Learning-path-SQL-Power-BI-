@@ -9,7 +9,7 @@ A structured 6-week journey to master SQL and Power BI, with daily practice and 
 **SQL Basics:**
 - Concepts: Databases, tables, data types.
 - Commands: `SELECT`, `WHERE`, `ORDER BY`.
-- Practice: uploaded in repo.
+- Practice: [Dataset](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset).
 - **Daily Quiz:** 5-10 questions on commands.
 
 **Power BI Basics:**
@@ -25,7 +25,7 @@ A structured 6-week journey to master SQL and Power BI, with daily practice and 
 
 **SQL Aggregations:**
 - Commands: `GROUP BY`, `SUM`, `AVG`.
-- Practice: uploaded in repo.
+- Practice: [Dataset](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset).
 
 **Power BI Data Modeling:**
 - Concepts: Star schema, DAX basics.
